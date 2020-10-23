@@ -36,3 +36,5 @@ Here are some of the most popular devops tools:
 
 1. **Gradle** 
 ![](gradle.png)
+
+This is considered to be a build tool. Apache Ant and Maven dominated the automated build tools for many years. However, from 2009, it gained more popularity and has steadily grown since then. Gradle allows you to write code in Java, C++, Python and many more languages. It is supported by a number of popular IDEs. 
