@@ -95,3 +95,14 @@ A hybrid cloud is a type of cloud computing that combines on premises infrastruc
 * More Deployment Options
 * Security
 * Compliance
+
+### Public Cloud
+
+Public Clouds are the most common type of cloud computing. The cloud resources are owned and operated by a third-party cloud service provider and delivered over the internet. Within a public cloud, all hardware, software, and other supporting infrastructure are owned and managed by the cloud provider. Microsoft Azure is an exmple of this.
+
+**Benefits:**
+
+* Lower Costs
+* No Maintenance
+* Almost Unlimited Scalability
+* Reliability
