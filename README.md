@@ -90,7 +90,7 @@ On premises or localhost refers to when you use software or computing services o
 A hybrid cloud is a type of cloud computing that combines on premises infrastructure (private cloud) with a public cloud. It allows data and apps to move between the two environments.
 
 **Benefits:**
-	- Greater Flexibility
-	- More Deployment Options
-	- Security
-	- Compliance
+	* Greater Flexibility
+	* More Deployment Options
+	* Security
+	* Compliance
