@@ -51,3 +51,46 @@ Jenkins is the go-to DevOps automation tool for many software development teams.
 ![](pipeline.png)
 
 With Jenkins, you vcan iterate and deploy new code as quickly as possible. It also allows you to measure the success of each step of your pipeline.
+
+
+## Cloud Computing
+
+Cloud computing is the delivery of computer services online whether it is servers, storages, databases or networking. It allows companies to only pay for the services they utilise rather than having to constantly upscale and downscale their own system. The most popular cloud computing provider is Amazon who provide the "Amazon Web Services" or "AWS".
+
+## What is SAAS, PAAS, IAAS?
+![](SAAS.jpg)
+
+### SAAS
+
+This stands for Software as a Service. This type of cloud computing delivers applications over the internet through the browser. An Example of this is Office 365 or Dropbox. Typical SAAS applications offer extensive configuration options as well as development environments that enable customers to code their own modifications and additions.
+
+### PAAS
+
+This stands for Platform as a Service. It is similar to SAAS and it gives the ability to rent a development and deployment environment in the cloud. This allows you to avoid paying for software licenses etc. Instead, you can rent when you need to.
+
+### IAAS
+
+This stands for Infrastructure as a Service. It allows the user to use servers, storage and other infrastructure whenever they need to without having to pay upfront.
+
+
+## When Should We Use PAAS, SAAS, IAAS and why?
+
+* When we want to reduce upfront investment
+* When a project's storage and processing requirements are unclear.
+* When there is a possibility of a project being discontinued, and it is unclear whether a large investment in software or hardware will bring back a positve Return Of Investment.
+
+## What is on prem/localhost - Hybrid and Public Cloud
+
+### On Prem/LocalHost
+
+On premises or localhost refers to when you use software or computing services on site or on your own computer. Localhost refers to the specific server that is ran by your computer.
+
+### Hybrid Cloud
+
+A hybrid cloud is a type of cloud computing that combines on premises infrastructure (private cloud) with a public cloud. It allows data and apps to move between the two environments.
+
+**Benefits:**
+	- Greater Flexibility
+	- More Deployment Options
+	- Security
+	- Compliance
